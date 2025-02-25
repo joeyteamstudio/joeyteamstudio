@@ -1808,7 +1808,7 @@ triplelift.com, 11883, RESELLER, 6c33edb13117fd86
 lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
  
 
-yandex.com, 107152796, DIRECT
+yandex.com, 106441544, DIRECT
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
