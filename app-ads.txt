@@ -6,7 +6,13 @@ facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68
 google.com, pub-9873881731247324, DIRECT, f08c47fec0942fa0
 google.com, pub-5417263955398589, DIRECT, f08c47fec0942fa0
 google.com, pub-1046012744591743, DIRECT, f08c47fec0942fa0
-
+#Premium Programmatic Demand by mailto:publisher@greedygame.com
+greedygame.com, 3050622754951208, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
+google.com,pub-4686405784285870, RESELLER, f08c47fec0942fa0
 vungle.com,5e66f5ac0853b60012805dc4,DIRECT,c107d686becd2d77
 33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
